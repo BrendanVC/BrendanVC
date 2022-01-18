@@ -1,3 +1,3 @@
-With a deeply eager and driven mindset on self-education and skills diversification, my journey throughout programming, software development and electronics is grounded in a passion for mechatronics and computer engineering.
+With a deeply enthusiastic and driven mindset on self-education and skills diversification, my journey throughout programming, software development and electronics is grounded in a passion for mechatronics and engineering.
 
 I strongly believe that remaining consistent in self-driven learning, developing personal projects and keeping an open mind with a thirst for knowledge is key to succeeding in my desire to broadly diversify myself in the fields of hardware/software development, IoT and the integration of such matters with the world for the sake of improving the quality of life for all, including those who are at times forgotten about or excluded from in the pace of technology advancement including the disabled and elderly.
